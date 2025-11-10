@@ -1,6 +1,5 @@
-streamlit
-pandas
-numpy
-plotly
-matplotlib
-graphviz
+streamlit>=1.30
+pandas>=2.1
+openpyxl>=3.1
+altair>=5.0
+plotly>=5.0
